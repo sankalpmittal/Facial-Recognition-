@@ -14,6 +14,7 @@ webcam = cv2.VideoCapture(0)
 
 print "-----------------------Taking pictures----------------------"
 print "--------------------Give some expressions---------------------"
+print "--------------------Upload them in the database folder!---------------------"
 # The program loops until it has 20 images of the face.
 
 while count < 45:
